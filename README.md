@@ -20,7 +20,8 @@ Este proyecto tiene el fin de seguir aprendiendo a diferenciar entre códigos de
 9. Crear carpeta "proyecto_php".
 10. Descargar ambos archivos.
 11. Copiar archivos en la carpeta "/var/www/html/proyecto_php".
-12. Ingresar a http://localhost/proyecto_php/index.php
+12. Ingresar a la carpeta proyecto_php con el comando "cd proyecto_php".
+13. Ingresar a http://localhost/proyecto_php/index.php
 
 ## Datos del autor
 * **Nombre:** Fernando Castellanos
